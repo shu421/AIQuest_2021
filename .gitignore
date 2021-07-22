@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.DS_Store
+.vscode/
+venv_AIQuest2021/
+
+input/
+output/
