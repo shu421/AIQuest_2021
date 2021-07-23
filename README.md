@@ -8,3 +8,19 @@
   - rmse : 107.50887532119695
   - lb: 148.1268360
   - cvとlb相関取れてる
+- description落としただけ
+  - cv: 104.29192406749749
+- add len description
+  - cv: 104.24454861684883
+  
+- TF-IDF、features選択しても精度上がらなかった
+- kmeansもあまり効かない
+  - これに関しては、組み合わせによって0.02くらい精度上がった。怖いから採用しない
+- bedroomsをキーにした集約特徴量効かんなぁ
+- count encoding 効かない
+- cityキーにするとcv0.1改善
+
+- nb001
+- target encoding かなりきく
+  - sub_nb001
+  - cv: 103.57507737973427
