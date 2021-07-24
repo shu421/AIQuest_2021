@@ -24,3 +24,16 @@
 - target encoding かなりきく
   - sub_nb001
   - cv: 103.57507737973427
+- bedroomあたりのbedの数だめだった
+
+- nb003
+  - kmeans実験用
+
+### 20210724
+- 効かないもの
+  - log
+  - n_amenities
+
+- nb005
+  - top50 importanceでkmeansしたら0.01上がった
+  - 再現性なかった
