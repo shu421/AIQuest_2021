@@ -8,7 +8,7 @@ AI Quest2021アセスメントのリポジトリです。
 でした。[Twitter](https://twitter.com/shu421_)をやっていますので、ぜひフォローお願いします。アセスメントに関して質問があれば、slackのアセスメント_チュートリアルチャンネルで回答いたします。
 
 # 解法
-main/nb001.ipynbが最終サブミッションです。内容を簡単にまとめておきます。
+mainフォルダの中にある、nb001.ipynbが最終サブミッションです。内容を簡単にまとめておきます。
 - 前処理
   - 型がobjectのカラムは、label encodingと、target encodingをしました。
   - レビュー日やアメニティなどは、one hot encodingをしています。
